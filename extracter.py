@@ -9,7 +9,7 @@ import time
 
     # THIS SCRIPT IS FOR EXTRACT 2023 DATA #
 
-URL = 'http://pragdgencti01.applications.services.axa-tech.intraxa/reporting-wfm/reporting_wfm.aspx'
+URL = '' #private 
 CHROME_PATH = r'.\chromedriver_win32\chromedriver.exe'
 CHROME_SERVICE = ChromeService(executable_path=CHROME_PATH)
 CHROME_OPTIONS = ChromeOptions()
